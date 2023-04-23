@@ -1,10 +1,10 @@
-import Solution from "./components/Solution";
+import List from "./components/List";
 
 
 function App() {
   return (
     <div className="App">
-    <Solution
+    <List
     // array of object with some list 
     items={[
       {text:"Hello This is Shalini Roy"},

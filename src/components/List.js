@@ -64,6 +64,6 @@ WrappedListComponent.defaultProps = {
   items: [{text:"Shalini Roy"}], // modified
 };
 
-const Solution = memo(WrappedListComponent);
+const List = memo(WrappedListComponent);
 
-export default Solution;
+export default List;
